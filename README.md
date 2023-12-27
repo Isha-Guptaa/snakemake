@@ -1,2 +1,2 @@
 # snakemake
-This is my first workflow.
+This is my first workflow using snakemake.
