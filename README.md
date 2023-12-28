@@ -1,3 +1,3 @@
 # snakemake
 This is my first workflow using snakemake.
-<p> Akashi is a cool guy <p>
+https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html#get-data
