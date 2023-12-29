@@ -1,3 +1,8 @@
-https://github.com/Isha-Guptaa/snakemake.git
-abc
-aisha
+git clone <link>
+git add .
+git commit -m "any message update"
+git push origin main #to push from local to server 
+git pull origin main #to pull from server to local
+git checkout -b aisha #to create branch 
+git branch #to check branches and which branch you are on
+git status #to check status 
