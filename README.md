@@ -8,3 +8,6 @@ https://drive.google.com/drive/folders/1TMusph7hYywcJTDtQOkSyk9LE_9veRWb?usp=dri
 #input such as reference genome and genome of father, mother and child was taken from this analysis.
 <br>
 https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/exome-seq/tutorial.html#get-data
+
+
+HI Akash is here
