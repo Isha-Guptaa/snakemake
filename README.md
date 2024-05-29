@@ -81,7 +81,7 @@ conda install -c conda-forge matplotlib
 <br>
 5. **Install Python 3.8 and Pysam:**
 <br>
-conda install -c conda-forge python=3.8 pysam
+conda install -c conda-forge python=3.8 pysam=0.16.0.1
 <br>
 <br>
 ## Running the Snakemake Pipeline
