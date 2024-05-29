@@ -102,6 +102,6 @@ sudo apt install graphviz
 <br>
 2. **Generate and visualize the DAG:**
 <br>
-snakemake --dag calls/all.vcf | dot -Tsvg > workflow.svg
+snakemake --dag calls/all.avf | dot -Tsvg > workflow.svg
 <br>
 <br>
